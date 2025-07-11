@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
-🎓 **Software Engineer**, recently graduated from the École Nationale d'Ingénieurs de Carthage.  
+🎓 **Software Engineer**, graduated from the École Nationale d'Ingénieurs de Carthage.  
 💡 Passionate about web & software development, APIs, DevOps and Security.  
 🚀 Always exploring new technologies and building projects that bridge theory and practice.
 
