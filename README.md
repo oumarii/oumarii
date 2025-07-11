@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Web Development, DevOps and AI**
 - 💬 Ask me about **Java, Spring Boot, Angular, TypeScript, Python, Node.js**
-- 📫 How to reach me: **your_email@gmail.com**  
+- 📫 How to reach me: **ghazi.oumari@enicar.ucar.tn**  
 - ⚡ Fun fact: *I love building real-world apps that solve real problems!*
 
 ---
