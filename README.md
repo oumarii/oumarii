@@ -33,22 +33,6 @@ NLP, Computer Vision, Machine Learning, Deep Learning, Unit Testing, Selenium, J
 
 ---
 
-## 🛠 Featured Projects
-
-✅ **Online Test & Challenge Management App**  
-> Web application for managing tests, quizzes and challenges for students and teachers, with quality tools and dashboards for tracking performance.  
-> Tech stack: Angular, Spring Boot, REST API, SonarQube, OWASP ZAP, Azure DevOps, JMeter, Selenium, Katalon, Docker, MVC.
-
-✅ **Corporate Forum Management Platform**  
-> Platform allowing companies to submit content via dynamic forms, and admins to manage and track projects via an interactive dashboard.  
-> Tech stack: Angular, Spring Boot, MySQL, GitHub, Docker, MVC.
-
-✅ **GraphQL API for Reports** *(Internship @ Linedata)*  
-> Design and implementation of a secure GraphQL API for Linedata Global Hedge reports with OAuth2 authentication.  
-> Tech stack: C#, .NET 8, Oracle, OAuth2, GraphQL.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
