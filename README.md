@@ -55,13 +55,6 @@
 
 ---
 
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="mailto:ghazi.oumarii@enicar.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/oumari-ghazi-028571296/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/ghazi.oumari" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-</p>
 
 ---
 
