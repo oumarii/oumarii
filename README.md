@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="linkedin" /></a>
-<a href="mailto:your_email@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-red?logo=gmail" alt="email" /></a>
+<a href="[linkedin.com/in/oumari-ghazi-028571296](https://www.linkedin.com/in/oumari-ghazi-028571296/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="linkedin" /></a>
+<a href="mailto:ghazi.oumari@enicar.ucar.tn"><img align="center" src="https://img.shields.io/badge/Email-red?logo=gmail" alt="email" /></a>
 </p>
 
 ---
