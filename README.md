@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ghazi OUMARI</h1>
+<h1 align="center">💻 Hi, I'm Ghazi OUMARI – Software Engineer</h1>
 <h3 align="center">Software Engineer | Full-Stack Development · DevOps · AI Enthusiast</h3>
 
 <p align="center">
